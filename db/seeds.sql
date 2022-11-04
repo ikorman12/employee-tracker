@@ -1,6 +1,7 @@
 USE employees_db;
 
 INSERT INTO department (name)
+
 VALUES ('Tech'),('Marketing'),('HR'),('PR'), ('Management');
 
 INSERT INTO roles (title, salary, department_id);
