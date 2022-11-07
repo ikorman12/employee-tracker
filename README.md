@@ -22,18 +22,19 @@ Javascript
 CSS
 
 ## Usage
+The user can download the repo in the deployment tab below and follow the prompts and online instructional, initiate the command `node server.js` to create a server, follow the promopt to add, edit and delete emplpoyees, roles and or departments.
 Edit employee data through command line processes. Simply follow the promt and allow for the creation of a new employee.
 
 
 ## Deployment
 -[Github](https://github.com/ikorman12/employee-tracker)
--[Live-deployment](https://ikorman12.github.io/work-day-scheduler/)
+-[Live-deployment]()
 
 ## Screenshots
 ![image description](link to picture in diretory)
 
 ## Future
-Future implementations of this app would be to incorporate other features such as reminders on the todo events so the user will never forget what needs to be done.
+Future implementations of this app would be to improve UI to make it easier and create a front end app that works with the backend to propelry create a company database.
 
 ## Credits
 Igor Korman
